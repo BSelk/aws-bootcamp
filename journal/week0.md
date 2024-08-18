@@ -95,4 +95,19 @@ As an additional challenge, I attempted to create an architectural diagram of th
 ![CI/CD Pipeline](../_docs/assets/cicd_pipeline.png)
 
 
+##Description of the Pipeline 
+
+- Development: On the left, we have a section labeled “Development.” It includes a symbol representing code development.
+- CI/CD Pipeline: Moving to the right, there’s a CI/CD pipeline with four steps:
+- CodeCommit: This service stores code.
+- CodeBuild: It builds and tests applications.
+- CodeDeploy: Used for deploying to production.
+- CodePipeline: Automates the release process.
+- Auth: In the center top, we find an “Auth” section with two elements:
+- IAM (Identity and Access Management): Used for authentication.
+- KMS (Key Management Service): Ensures security.
+- Compute: On the right side of the CI/CD pipeline, there’s a section represented by an EC2 (Elastic Compute Cloud) service icon.
+- Artifact: At the bottom right corner, we have an “Artifact” section with two elements:
+- Artifact itself (presumably representing build artifacts).
+- S3 (Simple Storage Service): Where artifacts are stored.
 
