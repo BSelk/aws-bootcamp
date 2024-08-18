@@ -43,12 +43,13 @@ Some Notes that can help to design our app solution in a better way.
 
 Here's the logical and napkin diagram for cruddr application
 
-
+### Conceptual Design
 ⦁	Creating a Lucidchart account for the architecture design
 ![Napkin Diagram](../_docs/assets/napkin_design.png)
 
-<br />
+### Logical Diagram
 ![Logical Design](../_docs/assets/logical-diagram.jpeg)
+
 
 <br />
 
