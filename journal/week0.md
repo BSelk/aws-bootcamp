@@ -5,8 +5,7 @@
 ⦁	Syncing GitHub Account with the GitPod account
 ⦁	Using the template on GitHub to get the same Repository structure
 ⦁	Creating a Lucidchart account for the architecture design
-![Conceptual Architecure Design template for the first imression of the strucutre.](https://lucid.app/lucidchart/71a65539-c2b2-4c67-8d4b-f4f12be45b42/edit?viewport_loc=-4%2C-498%2C2949%2C1383%2C0_0&invitationId=inv_b296c1f7-1d6c-4b1c-810b-bc4451a0ffeb)
-
+![Napkin Diagram](../_docs/assets/conceptual Design.jpeg)
 ## GitHub Account journal week 0
 Completed tasks for WEEK 0:
 Conceptual Design is created
