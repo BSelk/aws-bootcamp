@@ -95,7 +95,7 @@ As an additional challenge, I attempted to create an architectural diagram of th
 ![CI/CD Pipeline](../_docs/assets/cicd_pipeline.png)
 
 
-##Description of the Pipeline 
+## Description of the Pipeline 
 
 - Development: On the left, we have a section labeled “Development.” It includes a symbol representing code development.
 - CI/CD Pipeline: Moving to the right, there’s a CI/CD pipeline with four steps:
