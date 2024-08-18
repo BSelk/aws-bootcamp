@@ -86,4 +86,13 @@ Install AWS CLI
 Create an AWS Budget 
 Go through the Instructions on the following page: https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html
 
+## Homework challenges
+
+### Architectural diagram of the CI/CD pipeline
+
+As an additional challenge, I attempted to create an architectural diagram of the CI/CD pipeline. 
+
+![CI/CD Pipeline](../_docs/assets/cicd_pipeline.png)
+
+
 
