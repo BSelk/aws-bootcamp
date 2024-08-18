@@ -46,6 +46,7 @@ Here's the logical and napkin diagram for cruddr application
 
 ⦁	Creating a Lucidchart account for the architecture design
 ![Napkin Diagram](../_docs/assets/napkin_design.png)
+![Logical Design](../docs/assets/logical_design.png)
 
 <br />
 
