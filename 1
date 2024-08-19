@@ -1,0 +1,11 @@
+
+aws sns create-topic --name billing-alarm
+
+
+
+"arn:aws:sns:eu-north-1:211125494743:billing-alarm
+
+aws sns subscribe \
+    --topic-arn="arn:aws:sns:eu-north-1:211125494743:billing-alarm"\
+    --protocol=email \
+    --notification-endpoint=buesra.selek@eviden.com
